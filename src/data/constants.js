@@ -579,7 +579,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://in.images.search.yahoo.com/yhs/search;_ylt=Awr1QNuvB_VnWeQ1p0nnHgx.;_ylu=Y29sbwMEcG9zAzEEdnRpZAMEc2VjA3Nj?p=git+icon&type=type80410-674343068&param1=1331511585&hsimp=yhs-024&hspart=sz&ei=UTF-8&fr=yhs-sz-024&th=105.1&tw=105.1&imgurl=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3253808%2Fgit-icon-icon-md.png&rurl=https%3A%2F%2Fcreazilla.com%2Fnodes%2F3253808-git-icon-icon&size=8KB&name=Git-icon+icon.+Free+download+transparent+.PNG+%7C+Creazilla&oid=2&h=800&w=800&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.bbMAm44sU8qOI48PRRdGFgHaHa%26pid%3DApi%26rs%3D1%26c%3D1%26qlt%3D95%26w%3D105%26h%3D105&tt=Git-icon+icon.+Free+download+transparent+.PNG+%7C+Creazilla&sigr=xjDi.Uj.MJD1&sigit=bTC7310VNn6u&sigi=M4m3Y7k2pea9&sign=wPFbZM5bQtIN&sigt=wPFbZM5bQtIN",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png",
       },
       {
         name: "GitHub",
@@ -594,17 +594,17 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png",
       },
       {
-        name: "Adobe XD",
+        name: "Canva",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://public.canva.site/logo/media/dfb96cc174513093cd6ed61489ccb750.svg",
       },
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png",
       },
     ],
   },
@@ -631,7 +631,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://upload.wikimedia.org/wikipedia/en/a/ae/Maharaja_Krishnakumarsinhji_Bhavnagar_University_logo.png",
     school: "Maharaha Krishnkumarsinhji Bhavnagar University, Bhavnagar",
     date: "August 2024 - April 2026",
     grade: "69.58%",
@@ -640,7 +640,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://play-lh.googleusercontent.com/cG2dMIchDCnKV97IWHOqdbQrZUzLDDn0qck9HpCEeW0gzynwClwsUenCXStu_eBkhw=w600-h300-pc0xffffff-pd",
     school: "Saurashtra University, Rajkot",
     date: "August 2021 - March 2024",
     grade: "8.36 CGPA",
